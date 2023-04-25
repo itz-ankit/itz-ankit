@@ -1,6 +1,6 @@
-[![MasterHead](https://gifdb.com/images/high/dark-anime-nevereverland-nano-music-qqr4ajipd0ab7kvw.webp)](https://itz-ankit.io)
-<h1 align="center">Hey there 👋, I'm Ankit</h1>
-<h3 align="center">A passionate coder</h3>
+[![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/974371140838419683/37333B03674D36B332D83A12A0E85082B6193466/)](https://itz-ankit.io)
+<h1 align="center">[-Xiao here-]</h1>
+<h3 align="center">A passionate beginner</h3>
 <image align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cdc9f911347b8fb8f066e59c387054c1b56b0c4c9343624a368ba0a5516c0ab7/68747470733a2f2f7732776562736f6c7574696f6e732e636f6d2f696d616765732f66756c6c737461636b646576656c6f7065722e676966"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itz-ankit&label=Profile%20views&color=0e75b6&style=flat" alt="itz-ankit" /> </p>
