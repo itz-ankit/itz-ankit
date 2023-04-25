@@ -29,4 +29,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itz-ankit&show_icons=true&locale=en" alt="itz-ankit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itz-ankit&" alt="itz-ankit" /></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itz-ankit&theme=radical)](https://git.io/streak-stats)
+[![MasterHead](https://share.creavite.co/BdajDBlrx2A7dIJh.gif)](https://github.com/itz-ankit)
