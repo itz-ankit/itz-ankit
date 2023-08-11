@@ -1,7 +1,8 @@
 <p align="center"><img src="https://steamuserimages-a.akamaihd.net/ugc/974371140838419683/37333B03674D36B332D83A12A0E85082B6193466/" alt="animated" /> </p>
 <h1 align="center">[-Xiao here-]</h1>
 <h3 align="center">A passionate beginner</h3>
-<p align="right"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fslyfire.tumblr.com%2Fpost%2F715546380435865600%2Fkafka-gifs-from-the-newest-trailer-i-love-her-so&psig=AOvVaw19_iThC4y4vB-WdT6bAv8b&ust=1691856793567000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjpqu3_1IADFQAAAAAdAAAAABAD" alt="Coding" width="400" /> </p>
+<p align="right">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fslyfire.tumblr.com%2Fpost%2F715546380435865600%2Fkafka-gifs-from-the-newest-trailer-i-love-her-so&psig=AOvVaw19_iThC4y4vB-WdT6bAv8b&ust=1691856793567000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjpqu3_1IADFQAAAAAdAAAAABAD" alt="animated" width="400" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itz-ankit&label=Profile%20views&color=0e75b6&style=flat" alt="itz-ankit" /> </p>
 
