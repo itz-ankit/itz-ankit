@@ -2,7 +2,7 @@
 <h1 align="center">[-Xiao here-]</h1>
 <h3 align="center">A passionate beginner</h3>
 <p align="right">
-  <img src="https://64.media.tumblr.com/64c2536e609db30f170f5fa717428920/788c4c2429520af0-dc/s1280x1920/6abb1ad87f84babde056ce66be731ecd2865bd4e.gif" alt="animated" />
+  <img src="https://media.tenor.com/aDWOgEh1GycAAAAd/kafka-honkai.gif" alt="animated" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itz-ankit&label=Profile%20views&color=0e75b6&style=flat" alt="itz-ankit" /> </p>
