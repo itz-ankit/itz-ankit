@@ -2,7 +2,8 @@
 <h1 align="center">[-Xiao here-]</h1>
 <h3 align="center">A passionate beginner</h3>
 <p align="right">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fslyfire.tumblr.com%2Fpost%2F715546380435865600%2Fkafka-gifs-from-the-newest-trailer-i-love-her-so&psig=AOvVaw19_iThC4y4vB-WdT6bAv8b&ust=1691856793567000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjpqu3_1IADFQAAAAAdAAAAABAD.gif" alt="animated" width="400" /> </p>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fslyfire.tumblr.com%2Fpost%2F715546380435865600%2Fkafka-gifs-from-the-newest-trailer-i-love-her-so&psig=AOvVaw19_iThC4y4vB-WdT6bAv8b&ust=1691856793567000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjpqu3_1IADFQAAAAAdAAAAABAD.gif" alt="animated" />
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itz-ankit&label=Profile%20views&color=0e75b6&style=flat" alt="itz-ankit" /> </p>
 
