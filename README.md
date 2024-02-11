@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python, C, Java, Web Development**
 
-- 📫 How to reach me **shukurenai2112@gmail.com**
+- 📫 How to reach me **ankitdasxisc@gmail.com**
 
 - ⚡ Fun fact **Some kind of a gamer myself ;)**
 
