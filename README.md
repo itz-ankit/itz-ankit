@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itz-ankit&label=Profile%20views&color=0e75b6&style=flat" alt="itz-ankit" /> </p>
 
-- 🌱 I’m currently learning **React.js and next.js**
+- 🌱 I’m currently learning **Typescript**
 
-- 🤝 I’m looking for help with **Discord Bots**
+- 🤝 I’m looking for help with **Machine Learning**
 
-- 💬 Ask me about **Python, C, Java, Web Development**
+- 💬 Ask me about **Python, C, Java, Web Development, Discord Bots**
 
 - 📫 How to reach me **ankitdasxisc@gmail.com**
 
