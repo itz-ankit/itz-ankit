@@ -3,7 +3,8 @@
 <h3 align="center">A passionate beginner</h3>
 <p align="center">
   <img src="https://upload-os-bbs.hoyolab.com/upload/2024/04/16/109339302/a98eacf75cd9058645f8d61614d6964a_6781580525650843457.gif" alt="animated" height="390" width="1900"/>
-</p>
+</p>![ezgif-7-2fc1ce613b](https://github.com/itz-ankit/itz-ankit/assets/116746318/6b8e6dd9-721d-456f-b0ee-6577b44df074)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itz-ankit&label=Profile%20views&color=0e75b6&style=flat" alt="itz-ankit" /> </p>
 
