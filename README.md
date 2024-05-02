@@ -1,33 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Ankit's README</title>
-  <style>
-    body {
-      margin: 0;
-      padding: 0;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      background-color: #f0f2f5;
-    }
-
-    .outer-frame {
-      border: 4px solid #000;
-      padding: 20px;
-      border-radius: 20px;
-      box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
-    }
-
-    /* Add any additional styling here */
-
-  </style>
-</head>
-<body>
-<div class="outer-frame">
 <p align="center"><img src="https://steamuserimages-a.akamaihd.net/ugc/974371140838419683/37333B03674D36B332D83A12A0E85082B6193466/" alt="animated" /> </p>
 <h1 align="center">・━━━━━━━ Ankit here ━━━━━━━・</h1>
 <h3 align="center">A passionate beginner</h3>
@@ -71,7 +41,4 @@
 
 <p align="center">
   <img src="https://share.creavite.co/BdajDBlrx2A7dIJh.gif" alt="animated" />
-</p>   
- </div>
-</body>
-</html>
+</p>
