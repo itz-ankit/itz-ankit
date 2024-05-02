@@ -35,8 +35,8 @@
 
 <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=itz-ankit&theme=highcontrast&show_icons=true&local=en&layout=compact" alt="itz-ankit" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=itz-ankit&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itz-ankit" alt="itz-xiao" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=itz-ankit&theme=onedark&row=3&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 <p align="center">
