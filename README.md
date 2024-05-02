@@ -1,5 +1,5 @@
 <p align="center"><img src="https://steamuserimages-a.akamaihd.net/ugc/974371140838419683/37333B03674D36B332D83A12A0E85082B6193466/" alt="animated" /> </p>
-<h1 align="center">・━━━━━━━☆Ankit here☆━━━━━━━・</h1>
+<h1 align="center">・━━━━━━━ Ankit here ━━━━━━━・</h1>
 <h3 align="center">A passionate beginner</h3>
 <p align="center">
   <img src="https://media.tenor.com/aDWOgEh1GycAAAAd/kafka-honkai.gif" alt="animated" />
