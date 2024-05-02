@@ -40,5 +40,5 @@
 
 
 <p align="center">
-  <img src="https://share.creavite.co/BdajDBlrx2A7dIJh.gif" alt="animated" />
+  <img src="https://share.creavite.co/BdajDBlrx2A7dIJh.gif" alt="animated" width="90" />
 </p>
