@@ -2,7 +2,7 @@
 <h1 align="center">・━━━━━━━ Ankit here ━━━━━━━・</h1>
 <h3 align="center">A passionate beginner</h3>
 <p align="center">
-  <img src="https://64.media.tumblr.com/e6c1783db2a6737375ccc97bf7cc54eb/3ebb84c49cc94294-bc/s1280x1920/0bc0315547f79632ba55537e23510417ecad6981.gifv" alt="animated" height="390" width="1900"/>
+  <img src="https://64.media.tumblr.com/e6c1783db2a6737375ccc97bf7cc54eb/3ebb84c49cc94294-bc/s1280x1920/0bc0315547f79632ba55537e23510417ecad6981.gif" alt="animated" height="390" width="1900"/>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itz-ankit&label=Profile%20views&color=0e75b6&style=flat" alt="itz-ankit" /> </p>
