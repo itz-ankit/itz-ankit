@@ -31,9 +31,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itz-ankit&theme=highcontrast&show_icons=true&locale=en&layout=compact" alt="itz-ankit" />
 </p>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=itz-ankit&theme=radical&show_icons=true&locale=en" alt="itz-ankit" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=itz-ankit&theme=highcontrast&show_icons=true&locale=en" alt="itz-ankit" /></p>
 
-<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=itz-ankit&theme=radical&show_icons=true&local=en&layout=compact" alt="itz-ankit" /></p>
+<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=itz-ankit&theme=highcontrast&show_icons=true&local=en&layout=compact" alt="itz-ankit" /></p>
 
 <p align="center">
   <img src="https://share.creavite.co/BdajDBlrx2A7dIJh.gif" alt="animated" />
