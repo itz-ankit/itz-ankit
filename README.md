@@ -2,7 +2,7 @@
 <h1 align="center">・━━━━━━━ Ankit here ━━━━━━━・</h1>
 <h3 align="center">A passionate beginner</h3>
 <p align="center">
-  <img src="https://media.tenor.com/aDWOgEh1GycAAAAd/kafka-honkai.gif" alt="animated" height="190" width="1900"/>
+  <img src="https://media.tenor.com/aDWOgEh1GycAAAAd/kafka-honkai.gif" alt="animated" height="390" width="1900"/>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itz-ankit&label=Profile%20views&color=0e75b6&style=flat" alt="itz-ankit" /> </p>
