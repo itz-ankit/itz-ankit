@@ -35,6 +35,9 @@
 
 <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=itz-ankit&theme=highcontrast&show_icons=true&local=en&layout=compact" alt="itz-ankit" /></p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itz-xiao" alt="itz-xiao" /></a> </p>
+
+
 <p align="center">
   <img src="https://share.creavite.co/BdajDBlrx2A7dIJh.gif" alt="animated" />
 </p>   
