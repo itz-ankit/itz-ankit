@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ankitdasxisc@gmail.com**
 
-- ⚡ Fun fact **Some kind of a gamer myself ;)**
+- ⚡ Fun fact **I love to play video games | Anime watcher**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
