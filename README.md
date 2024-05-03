@@ -39,7 +39,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itz-ankit&theme=darkhub&row=3&column=3" alt="itz-xiao" /></a> </p>
 
-<p align="center"> <a href="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight"></a></p>
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight"/></p>
 
 <p align="center">
   <img src="https://share.creavite.co/BdajDBlrx2A7dIJh.gif" alt="animated" height="90" width="1900" />
