@@ -6,7 +6,7 @@
 </p>
 
 
-<p align="left"> <img src="https://visitcount.itsvg.in/api?id=itz-ankit&icon=5&color=11" alt="itz-ankit" /> </p>
+<p align="center"> <img src="https://visitcount.itsvg.in/api?id=itz-ankit&icon=5&color=11" alt="itz-ankit" /> </p>
 
 - 🌱 I’m currently learning **Typescript**
 
