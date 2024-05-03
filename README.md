@@ -6,7 +6,7 @@
 </p>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true" alt="itz-ankit" /> <img src="https://img.shields.io/badge/Welcome-gray?style=for-the-badge" alt="Welcome" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true" alt="itz-ankit" /> <img src="https://img.shields.io/badge/Welcome-gray?style=flat" alt="Welcome" /> </p>
 
 - 🌱 I’m currently learning **Typescript**
 
