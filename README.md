@@ -38,9 +38,6 @@
   <img src="./streak.svg" alt="streak" />
 </p>
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=itz-ankit&theme=onedark&row=3&column=3)]
-
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight"/></p>
 
 <p align="center">
