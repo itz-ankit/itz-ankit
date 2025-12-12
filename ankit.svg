@@ -1,0 +1,59 @@
+<svg fill="none" viewBox="0 0 1200 400" width="1200" height="400" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @keyframes stroke {
+          to {
+            stroke-dashoffset: 0;
+          }
+        }
+        
+        @keyframes fill {
+          from {
+            fill: transparent;
+          }
+          to {
+            fill: #1a5490;
+          }
+        }
+        
+        @keyframes float {
+          0%, 100% {
+            transform: translateY(0px);
+          }
+          50% {
+            transform: translateY(-8px);
+          }
+        }
+        
+        .container {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          height: 100%;
+          background: white;
+        }
+        
+        .handwriting {
+          font-family: 'Brush Script MT', 'Lucida Handwriting', 'Segoe Script', cursive;
+          font-size: 180px;
+          font-weight: bold;
+          font-style: italic;
+          fill: #1a5490;
+          stroke: #1a5490;
+          stroke-width: 3;
+          stroke-dasharray: 2000;
+          stroke-dashoffset: 2000;
+          animation: stroke 3s ease-in-out forwards, 
+                     fill 0.5s ease-in-out 2.8s forwards,
+                     float 3s ease-in-out 3s infinite;
+        }
+      </style>
+      <div class="container">
+        <svg viewBox="0 0 1000 300" width="100%">
+          <text x="50%" y="55%" text-anchor="middle" class="handwriting">Ankit</text>
+        </svg>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
