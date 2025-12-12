@@ -3,7 +3,7 @@
 <h3 align="center">A passionate beginner</h3>
 <!-- <img src="./ankit.svg" alt="Ankit" /> -->
 <p align="center">
-  <img src="https://github.com/itz-ankit/itz-ankit/assets/116746318/6b8e6dd9-721d-456f-b0ee-6577b44df074" alt="animated" height="390" width="1900"/>
+  <img src="./hello.gif" alt="animated" height="200" width="200"/>
 </p>
 
 
