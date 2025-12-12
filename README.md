@@ -42,5 +42,5 @@
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight"/></p>
 
 <p align="center">
-  <img src="https://share.creavite.co/BdajDBlrx2A7dIJh.gif" alt="animated" height="90" width="1900" />
+  <img src="https://share.creavite.co/BdajDBlrx2A7dIJh.gif" alt="animated" height="90" width="1900" style="border-radius: 8px;" />
 </p>
