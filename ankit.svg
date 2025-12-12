@@ -13,7 +13,7 @@
             fill: transparent;
           }
           to {
-            fill: #1a5490;
+            fill: #0000ff;
           }
         }
         
@@ -28,10 +28,10 @@
         
         .container {
           display: flex;
-          justify-content: center;
+          justify-content: flex-start;
           align-items: center;
           height: 100%;
-          background: white;
+          background: transparent;
         }
         
         .handwriting {
@@ -39,19 +39,20 @@
           font-size: 180px;
           font-weight: bold;
           font-style: italic;
-          fill: #1a5490;
-          stroke: #1a5490;
+          fill: #0000ff;
+          stroke: #0000ff;
           stroke-width: 3;
           stroke-dasharray: 2000;
           stroke-dashoffset: 2000;
           animation: stroke 3s ease-in-out forwards, 
                      fill 0.5s ease-in-out 2.8s forwards,
                      float 3s ease-in-out 3s infinite;
+          margin-left: 20px;           
         }
       </style>
       <div class="container">
         <svg viewBox="0 0 1000 300" width="100%">
-          <text x="50%" y="55%" text-anchor="middle" class="handwriting">Ankit</text>
+          <text x="0" y="55%" class="handwriting">Ankit here</text>
         </svg>
       </div>
     </div>
