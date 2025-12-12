@@ -8,15 +8,6 @@
           }
         }
         
-        @keyframes fill {
-          from {
-            fill: transparent;
-          }
-          to {
-            fill: #0000ff;
-          }
-        }
-        
         @keyframes float {
           0%, 100% {
             transform: translateY(0px);
@@ -39,13 +30,12 @@
           font-size: 180px;
           font-weight: bold;
           font-style: italic;
-          fill: #0000ff;
-          stroke: #0000ff;
+          fill: white !important;
+          stroke: white !important;
           stroke-width: 3;
           stroke-dasharray: 2000;
           stroke-dashoffset: 2000;
           animation: stroke 3s ease-in-out forwards, 
-                     fill 0.5s ease-in-out 2.8s forwards,
                      float 3s ease-in-out 3s infinite;
           margin-left: 20px;           
         }

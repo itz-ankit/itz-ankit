@@ -1,7 +1,7 @@
 <p align="center"><img src="https://steamuserimages-a.akamaihd.net/ugc/974371140838419683/37333B03674D36B332D83A12A0E85082B6193466/" alt="animated" height="190" /> </p>
 <h1 align="center">・━━━━━━━ Ankit here ━━━━━━━・</h1>
 <h3 align="center">A passionate beginner</h3>
-<img src="./ankit.svg" alt="Ankit" />
+<!-- <img src="./ankit.svg" alt="Ankit" /> -->
 <p align="center">
   <img src="https://github.com/itz-ankit/itz-ankit/assets/116746318/6b8e6dd9-721d-456f-b0ee-6577b44df074" alt="animated" height="390" width="1900"/>
 </p>
