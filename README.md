@@ -34,7 +34,9 @@
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=itz-ankit&theme=highcontrast&show_icons=true&locale=en" alt="itz-ankit" /></p>
 
-<p align="center"><img src="https://streak-stats.demolab.com/?user=itz-ankit&theme=highcontrast" alt="itz-ankit" /></p>
+<p align="center">
+  <img src="./streak.svg" alt="streak" />
+</p>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=itz-ankit&theme=onedark&row=3&column=3)]
