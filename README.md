@@ -37,7 +37,7 @@
 <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=itz-ankit&theme=highcontrast&show_icons=true&local=en&layout=compact" alt="itz-ankit" /></p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=itz-ankit&theme=onedark&row=3&column=3)
+[![trophy](https://github-profile-trophy.vercel.app/?username=itz-ankit&theme=onedark&row=3&column=3)]
 
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight"/></p>
 
